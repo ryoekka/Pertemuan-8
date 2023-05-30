@@ -1,4 +1,4 @@
-//MUHAMMAD AKMAL - A11.2022.14462
+//Ryo Ekka Saputra - A11.2022.14447
 //PERTEMUAN KE 8 SOAL KE 2
 // ALPRO 17 MEI 2023
 #include <iostream>
